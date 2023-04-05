@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	background: green;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background: orange;
+	font-size: 20px;
+	border: 2px solid black;
+}
+.red{
+	background: lime;
+}
+.lime{
+	background: blue;
+}
